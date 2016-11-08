@@ -1,2 +1,2 @@
 # hello-world
-Thank you for read this
+Welcome to GuineoStudio
